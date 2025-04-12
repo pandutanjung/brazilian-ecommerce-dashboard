@@ -1,7 +1,5 @@
 # brazilian-ecommerce-dashboard
 
-# 🇧🇷 Brazilian E-Commerce Dashboard
-
 ## 📌 Overview
 **Brazilian E-Commerce Dashboard** merupakan dashboard interaktif yang dikembangkan menggunakan teknologi **Streamlit**. Dashboard ini dirancang untuk mendukung proses **analisis bisnis berbasis data** dengan visualisasi yang informatif dan intuitif.
 
