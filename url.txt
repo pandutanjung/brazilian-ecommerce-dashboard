@@ -1,2 +1,4 @@
 Github:
 https://github.com/pandutanjung/brazilian-ecommerce-dashboard
+Streamlit:
+https://dashboard-of-brazilian-ecommerce.streamlit.app/
